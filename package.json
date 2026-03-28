@@ -1,0 +1,13 @@
+{
+  "name": "kulturama-librairie",
+  "version": "1.0.0",
+  "description": "Application de gestion de librairie Kulturama - PWA",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "build": "cd client && npm run build",
+    "seed": "cd server && node seeds/catalog.js",
+    "start": "cd server && node server.js",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  }
+}

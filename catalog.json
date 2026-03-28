@@ -1,0 +1,1439 @@
+{
+  "categories": [
+    "Arts et Musique",
+    "Divers",
+    "EDHC",
+    "Evaluations",
+    "Francais et Lecture",
+    "Habiletes",
+    "Histoire-Geo-Philo",
+    "Langues",
+    "Livres Jeunesse",
+    "Maternelle",
+    "Romans et Nouvelles",
+    "Sciences et Maths"
+  ],
+  "products": [
+    {
+      "isbn": "978-2-487642-18-8",
+      "name": "Allemand_ 4e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-10-2",
+      "name": "Allemand_ 3e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-36-2",
+      "name": "Allemand _ 2nde",
+      "price": 2500,
+      "stock": 46,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-37-9",
+      "name": "Allemand_ 1er",
+      "price": 2500,
+      "stock": 50,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-38-6",
+      "name": "Allemand_ Tle",
+      "price": 2500,
+      "stock": 50,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-15-7",
+      "name": "Espanol _ 4e",
+      "price": 2000,
+      "stock": 44,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-16-4",
+      "name": "Espanol _ 3e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-17-1",
+      "name": "Espanol _ 2nde",
+      "price": 2500,
+      "stock": 46,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-34-8",
+      "name": "Espanol  _ 1er",
+      "price": 2500,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-35-5",
+      "name": "Espanol _ Tle",
+      "price": 2500,
+      "stock": 44,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-07-6",
+      "name": "Student's Book_ 6e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-08-3",
+      "name": "Student's Book_ 5e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-09-0",
+      "name": "Student's Book_ 4e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-10-6",
+      "name": "Student's Book_ 3e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-59-5",
+      "name": "Student's Book_ 2nde",
+      "price": 2500,
+      "stock": 60,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-493344-60-1",
+      "name": "Student's Book_ 1er",
+      "price": 2500,
+      "stock": 50,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-14-0",
+      "name": "Student's Book_ Tle",
+      "price": 2500,
+      "stock": 36,
+      "category": "Langues"
+    },
+    {
+      "isbn": "979-10-91832-94-6",
+      "name": "Arts Plast. (Cours)_ 6e/Tle",
+      "price": 2500,
+      "stock": 40,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "979-10-91832-89-2",
+      "name": "Arts Plast. Hab_4e",
+      "price": 2000,
+      "stock": 76,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "978-2-493344-11-3",
+      "name": "Livre EDHC 6e",
+      "price": 2000,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-493344-12-0",
+      "name": "Livre EDHC 5e",
+      "price": 2000,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-493344-13-7",
+      "name": "Livre EDHC 4e",
+      "price": 2000,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-493344-14-4",
+      "name": "Livre EDHC 3e",
+      "price": 2000,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-493344-19-9",
+      "name": "Iroko 6e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-20-5",
+      "name": "Iroko 5e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-21-2",
+      "name": "Iroko 4e",
+      "price": 2000,
+      "stock": 35,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-22-9",
+      "name": "Iroko 3e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-63-2",
+      "name": "Iroko 2nde A",
+      "price": 2500,
+      "stock": 38,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-64-9",
+      "name": "Iroko 2nde C",
+      "price": 2500,
+      "stock": 26,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-65-6",
+      "name": "Iroko 1er A",
+      "price": 2500,
+      "stock": 38,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-49-2",
+      "name": "Iroko 1er D",
+      "price": 2500,
+      "stock": 30,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-50-2",
+      "name": "Iroko Tle D",
+      "price": 2500,
+      "stock": 38,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-15-1",
+      "name": "Atome 6e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-16-8",
+      "name": "Atome 5e",
+      "price": 2000,
+      "stock": 55,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-17-5",
+      "name": "Atome 4e",
+      "price": 2000,
+      "stock": 50,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-18-2",
+      "name": "Atome 3e",
+      "price": 2000,
+      "stock": 55,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-61-8",
+      "name": "Atome 2nde A",
+      "price": 2500,
+      "stock": 30,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-62-5",
+      "name": "Atome 2nde C",
+      "price": 2500,
+      "stock": 20,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-487642-39-3",
+      "name": "Atome Physique 1er D",
+      "price": 2500,
+      "stock": 30,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-487642-40-9",
+      "name": "Atome Chimie 1er D",
+      "price": 2500,
+      "stock": 44,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "979-10-91832-95-3",
+      "name": "Pyramide 6e",
+      "price": 2000,
+      "stock": 36,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "979-10-91832-96-0",
+      "name": "Pyramide 5e",
+      "price": 2000,
+      "stock": 45,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "979-10-91832-97-7",
+      "name": "Pyramide 4e",
+      "price": 2000,
+      "stock": 35,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "979-10-91832-98-4",
+      "name": "Pyramide 3e",
+      "price": 2000,
+      "stock": 30,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-44-1",
+      "name": "Pyramide 2nde A",
+      "price": 2500,
+      "stock": 48,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-43-4",
+      "name": "Pyramide 2nde C",
+      "price": 2500,
+      "stock": 25,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-45-8",
+      "name": "Pyramide 1er A",
+      "price": 2500,
+      "stock": 48,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-68-7",
+      "name": "Pyramide 1re C _ Tome 1",
+      "price": 2500,
+      "stock": 32,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-69-4",
+      "name": "Pyramide 1re C _ Tome 2",
+      "price": 2500,
+      "stock": 34,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-46-5",
+      "name": "Pyramide 1re D",
+      "price": 2500,
+      "stock": 24,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-24-3",
+      "name": "Pyramide Tle A",
+      "price": 2500,
+      "stock": 36,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-66-3",
+      "name": "Pyramide Tle C _ Tome 1",
+      "price": 2500,
+      "stock": 28,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-67-0",
+      "name": "Pyramide Tle C _ Tome 2",
+      "price": 2500,
+      "stock": 28,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-23-6",
+      "name": "Pyramide Tle D",
+      "price": 2500,
+      "stock": 28,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-493344-40-3",
+      "name": "Livre Hist. & Géo. _ 2nde",
+      "price": 2500,
+      "stock": 60,
+      "category": "Histoire-Geo-Philo"
+    },
+    {
+      "isbn": "978-2-487642-12-6",
+      "name": "Livre d'Histoire _ 1er",
+      "price": 2500,
+      "stock": 60,
+      "category": "Histoire-Geo-Philo"
+    },
+    {
+      "isbn": "978-2-487642-13-3",
+      "name": "Livre de Géographie _ 1er",
+      "price": 2500,
+      "stock": 60,
+      "category": "Histoire-Geo-Philo"
+    },
+    {
+      "isbn": "978-2-487642-11-9",
+      "name": "Manuel Philosophie _ Tle",
+      "price": 2500,
+      "stock": 60,
+      "category": "Histoire-Geo-Philo"
+    },
+    {
+      "isbn": "979-10-91832-87-8",
+      "name": "Annal Philosopie _ Tle",
+      "price": 2000,
+      "stock": 60,
+      "category": "Histoire-Geo-Philo"
+    },
+    {
+      "isbn": "978-2-487642-45-4",
+      "name": "Mon Cahier de Musique _ 6e",
+      "price": 2000,
+      "stock": 60,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "978-2-487642-46-1",
+      "name": "Mon Cahier de Musique _ 5e",
+      "price": 2000,
+      "stock": 60,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "978-2-487642-47-8",
+      "name": "Mon Cahier de Musique _ 4e",
+      "price": 2000,
+      "stock": 44,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "978-2-487642-48-5",
+      "name": "Mon Cahier de Musique _ 3e",
+      "price": 2000,
+      "stock": 60,
+      "category": "Arts et Musique"
+    },
+    {
+      "isbn": "978-2-925020-09-7",
+      "name": "Let's Discover English _ CE1",
+      "price": 1750,
+      "stock": 44,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-925020-08-0",
+      "name": "Let's Discover English _ CE2",
+      "price": 1750,
+      "stock": 60,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-925020-10-3",
+      "name": "Let's Discover English _ CM1",
+      "price": 1750,
+      "stock": 44,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-925020-11-0",
+      "name": "Let's Discover English _ CM2",
+      "price": 1750,
+      "stock": 60,
+      "category": "Langues"
+    },
+    {
+      "isbn": "978-2-487642-69-0",
+      "name": "Exercices Déchiffrable CP1",
+      "price": 800,
+      "stock": 44,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "***",
+      "name": "Exercices Décodable CP1",
+      "price": 800,
+      "stock": 60,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-38438-052-7",
+      "name": "Manuel Déchiffrable CE1",
+      "price": 1000,
+      "stock": 44,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-65-2",
+      "name": "Manuel Mathématique _ CP1",
+      "price": 1750,
+      "stock": 60,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-487642-63-8",
+      "name": "Lecture / Ecriture _ CP1",
+      "price": 1750,
+      "stock": 44,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-66-9",
+      "name": "Manuel Mathématique _ CP2",
+      "price": 1750,
+      "stock": 60,
+      "category": "Sciences et Maths"
+    },
+    {
+      "isbn": "978-2-487642-64-5",
+      "name": "Lecture / Ecriture _ CP2",
+      "price": 1750,
+      "stock": 44,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-51-5",
+      "name": "Livre EDHC _ CP1",
+      "price": 1750,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-487642-52-2",
+      "name": "Livre EDHC _ CP2",
+      "price": 1750,
+      "stock": 44,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-487642-53-9",
+      "name": "Livre EDHC _ CE1",
+      "price": 1750,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-487642-54-6",
+      "name": "Livre EDHC _ CE2",
+      "price": 1750,
+      "stock": 44,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-487642-55-3",
+      "name": "Livre EDHC _ CM1",
+      "price": 1750,
+      "stock": 60,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-487642-56-0",
+      "name": "Livre EDHC _ CM2",
+      "price": 1750,
+      "stock": 44,
+      "category": "EDHC"
+    },
+    {
+      "isbn": "978-2-493344-26-7",
+      "name": "Pt Sect _ Lecture",
+      "price": 1650,
+      "stock": 60,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-25-0",
+      "name": "Pt Sect _ Maths",
+      "price": 1650,
+      "stock": 44,
+      "category": "Maternelle"
+    },
+    {
+      "isbn": "978-2-493344-28-1",
+      "name": "Moy. Sect _ Lecture",
+      "price": 1650,
+      "stock": 60,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-27-4",
+      "name": "Moy. Sect _ Maths",
+      "price": 1650,
+      "stock": 44,
+      "category": "Maternelle"
+    },
+    {
+      "isbn": "978-2-493344-30-4",
+      "name": "Grde. Sect _ Lecture",
+      "price": 1650,
+      "stock": 60,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-29-8",
+      "name": "Grde. Sect _ Maths",
+      "price": 1650,
+      "stock": 44,
+      "category": "Maternelle"
+    },
+    {
+      "isbn": "979-10-91832-62-5",
+      "name": "Habiletés EDHC 6e",
+      "price": 2000,
+      "stock": 85,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-63-2",
+      "name": "Habiletés EDHC 5e",
+      "price": 2000,
+      "stock": 85,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-84-7",
+      "name": "Habiletés EDHC 4e",
+      "price": 2000,
+      "stock": 85,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-78-6",
+      "name": "Habiletés EDHC 3e",
+      "price": 2000,
+      "stock": 85,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-29-8",
+      "name": "Hab. Fran 6e",
+      "price": 2000,
+      "stock": 34,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-49-6",
+      "name": "Hab. Fran 5e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-46-5",
+      "name": "Hab. Fran 4e",
+      "price": 2000,
+      "stock": 32,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-39-7",
+      "name": "Hab. Fran 3e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-81-6",
+      "name": "Hab. Hist.-Géo 6e",
+      "price": 2000,
+      "stock": 46,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-82-3",
+      "name": "Hab. Hist.-Géo 5e",
+      "price": 2000,
+      "stock": 46,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-89-2",
+      "name": "Hab. Hist.-Géo 4e",
+      "price": 2000,
+      "stock": 58,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-90-8",
+      "name": "Hab. Hist.-Géo 3e",
+      "price": 2000,
+      "stock": 42,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-09-0",
+      "name": "Hab. Math 6e",
+      "price": 2000,
+      "stock": 64,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-10-6",
+      "name": "Hab. Math 5e",
+      "price": 2000,
+      "stock": 24,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-11-3",
+      "name": "Hab. Math 4e",
+      "price": 2000,
+      "stock": 30,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-08-3",
+      "name": "Hab. Math 3e",
+      "price": 2000,
+      "stock": 54,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-41-0",
+      "name": "Hab. Math 2nde A",
+      "price": 2000,
+      "stock": 34,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-42-7",
+      "name": "Hab. Math 2nde C",
+      "price": 2000,
+      "stock": 30,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-02-1",
+      "name": "Hab. Math 1er A",
+      "price": 2000,
+      "stock": 50,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-50-2",
+      "name": "Hab. Math 1er C",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-04-5",
+      "name": "Hab. Math 1er D",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-05-2",
+      "name": "Hab. Math Tle A",
+      "price": 2000,
+      "stock": 52,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "978-2-493344-01-4",
+      "name": "Hab. Math Tle C",
+      "price": 2500,
+      "stock": 22,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-06-9",
+      "name": "Hab. Math Tle D",
+      "price": 2500,
+      "stock": 35,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-14-4",
+      "name": "Hab. P C 6e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-15-1",
+      "name": "Hab. P C 5e",
+      "price": 2000,
+      "stock": 60,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-23-6",
+      "name": "Hab. P C 4e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-24-3",
+      "name": "Hab. P C 3e",
+      "price": 2000,
+      "stock": 100,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-44-1",
+      "name": "Hab. P C 2nde A",
+      "price": 2000,
+      "stock": 60,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-40-3",
+      "name": "Hab. P C 2nde C",
+      "price": 2000,
+      "stock": 60,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-54-0",
+      "name": "Hab. P C 1er C&D",
+      "price": 2000,
+      "stock": 62,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "978-2-493344-00-7",
+      "name": "Hab. P C Tle C/D&E",
+      "price": 2500,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-19-9",
+      "name": "Hab. SVT 6e",
+      "price": 2000,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-25-0",
+      "name": "Hab. SVT 5e",
+      "price": 2000,
+      "stock": 60,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-26-7",
+      "name": "Hab. SVT 4e",
+      "price": 2000,
+      "stock": 75,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-27-4",
+      "name": "Hab. SVT 3e",
+      "price": 2000,
+      "stock": 38,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-52-6",
+      "name": "Hab. SVT 2nde A",
+      "price": 2000,
+      "stock": 42,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-53-3",
+      "name": "Hab. SVT 2nde C",
+      "price": 2500,
+      "stock": 50,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-66-3",
+      "name": "Hab. SVT 1er D",
+      "price": 2500,
+      "stock": 48,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-73-1",
+      "name": "Hab. SVT Tle D",
+      "price": 2500,
+      "stock": 40,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-79-3",
+      "name": "Hab. Win Skills 6e",
+      "price": 2000,
+      "stock": 62,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-80-9",
+      "name": "Hab. Win Skills 5e",
+      "price": 2000,
+      "stock": 62,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-92-2",
+      "name": "Hab. Win Skills 4e",
+      "price": 2000,
+      "stock": 58,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "979-10-91832-93-9",
+      "name": "Hab. Win Skills 3e",
+      "price": 2000,
+      "stock": 58,
+      "category": "Habiletes"
+    },
+    {
+      "isbn": "978-2-493344-04-5",
+      "name": "Tech. d'Exp _ 1A",
+      "price": 2000,
+      "stock": 65,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-493344-72-4",
+      "name": "Tech. d'Exp _ 2A",
+      "price": 2000,
+      "stock": 45,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "979-10-91832-61-4",
+      "name": "Evaluation CP1",
+      "price": 1750,
+      "stock": 80,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "979-10-91832-62-1",
+      "name": "Evaluation CP2",
+      "price": 1750,
+      "stock": 55,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "979-10-91832-48-9",
+      "name": "Evaluation CE1",
+      "price": 1750,
+      "stock": 50,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "979-10-91832-28-1",
+      "name": "Evaluation CE2",
+      "price": 1750,
+      "stock": 50,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "979-10-91832-38-0",
+      "name": "Evaluation CM1",
+      "price": 1750,
+      "stock": 50,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "979-10-91832-70-0",
+      "name": "Evaluation CM2",
+      "price": 1750,
+      "stock": 45,
+      "category": "Evaluations"
+    },
+    {
+      "isbn": "978-2-487642-19-5",
+      "name": "Livret de Dictée CE & CM",
+      "price": 800,
+      "stock": 50,
+      "category": "Francais et Lecture"
+    },
+    {
+      "isbn": "978-2-487642-33-1",
+      "name": "BALTAZA Chiwawa… _ CE1",
+      "price": 2250,
+      "stock": 120,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-49-6",
+      "name": "Le BAOBAB de Kilikili _ CE1",
+      "price": 2250,
+      "stock": 50,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-56-4",
+      "name": "La Panthère et le Rat _ CE2",
+      "price": 2000,
+      "stock": 120,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-22-9",
+      "name": "Les Larmes de Carène _ 6e",
+      "price": 1750,
+      "stock": 100,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-57-1",
+      "name": "La Convocation _ 6e",
+      "price": 1750,
+      "stock": 120,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-71-7",
+      "name": "WAKOUBO, l'albinos _ 5e",
+      "price": 1750,
+      "stock": 100,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-45-8",
+      "name": "Les Années Collège _ 4e",
+      "price": 1750,
+      "stock": 120,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-05-2",
+      "name": "Merveille, la vertueuse _ 4e",
+      "price": 1750,
+      "stock": 160,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-21-2",
+      "name": "Sous le Pouvoir des Bla. _ 3e",
+      "price": 1750,
+      "stock": 96,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-72-4",
+      "name": "La récréation est ter... _ 2nde",
+      "price": 1750,
+      "stock": 160,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-50-2",
+      "name": "DJELA _ 2nde",
+      "price": 1750,
+      "stock": 180,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-69-4",
+      "name": "Souffle _ 1er",
+      "price": 1750,
+      "stock": 44,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-77-9",
+      "name": "Vers-Tige _ 1er",
+      "price": 1750,
+      "stock": 108,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-33-5",
+      "name": "Le Rescapé de la méditeranée",
+      "price": 2000,
+      "stock": 96,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-69-4",
+      "name": "Un préservatif au couvant",
+      "price": 2000,
+      "stock": 160,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-32-8",
+      "name": "La rivière maudite",
+      "price": 2000,
+      "stock": 200,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-51-9",
+      "name": "Tout enfant est une étoile",
+      "price": 2000,
+      "stock": 120,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-31-1",
+      "name": "Le paysan qui a trahi la terre",
+      "price": 2000,
+      "stock": 180,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "979-10-91832-85-4",
+      "name": "le sang ne se perd jamais",
+      "price": 2000,
+      "stock": 140,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-57-1",
+      "name": "Une vie d'espoir",
+      "price": 2000,
+      "stock": 80,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-58-8",
+      "name": "Retour au bercail",
+      "price": 2000,
+      "stock": 100,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-76-2",
+      "name": "Chambre 393",
+      "price": 2000,
+      "stock": 96,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-83-0",
+      "name": "Le fardeau",
+      "price": 1500,
+      "stock": 80,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-86-1",
+      "name": "Le destin d'Agatha",
+      "price": 1500,
+      "stock": 96,
+      "category": "Romans et Nouvelles"
+    },
+    {
+      "isbn": "978-2-493344-87-8",
+      "name": "Le Livre mon Ami",
+      "price": 2250,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-01-0",
+      "name": "Mon Beau Village",
+      "price": 2250,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-88-5",
+      "name": "Moi, petit Oiseau Noir",
+      "price": 2250,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-06-5",
+      "name": "La Forêt de mon enfance",
+      "price": 2250,
+      "stock": 30,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-04-1",
+      "name": "Je suis en Colère",
+      "price": 2250,
+      "stock": 20,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-91-5",
+      "name": "Ma Terre Natale",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-90-8",
+      "name": "Ma petite Sœur",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-08-9",
+      "name": "La paresse",
+      "price": 2250,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-02-7",
+      "name": "Je suis Heureux",
+      "price": 2250,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-03-4",
+      "name": "Mon Ecole",
+      "price": 2250,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-05-8",
+      "name": "J'Aime ma Mère",
+      "price": 2250,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-89-2",
+      "name": "Il pleut sur le village",
+      "price": 2250,
+      "stock": 30,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-00-3",
+      "name": "Ma Grand-Mère",
+      "price": 2250,
+      "stock": 20,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-30-0",
+      "name": "l'Ami Fidèle",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-20-1",
+      "name": "Le Livre, mon Docte",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-82-3",
+      "name": "Les Fleurs Chantent",
+      "price": 1500,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-81-6",
+      "name": "Une chanson pour toi, Maman",
+      "price": 1500,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-78-6",
+      "name": "Béya",
+      "price": 1500,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-75-5",
+      "name": "L'Eléphant et le Panda",
+      "price": 1500,
+      "stock": 100,
+      "category": "Divers"
+    },
+    {
+      "isbn": "978-2-493344-74-8",
+      "name": "FICO a une carie dentaire",
+      "price": 1500,
+      "stock": 30,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-29-4",
+      "name": "Acôlê Cacoula",
+      "price": 1500,
+      "stock": 20,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-28-7",
+      "name": "Le meilleur ami de Moussa",
+      "price": 1500,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-31-7",
+      "name": "L'erreur de Tabi",
+      "price": 1500,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-26-3",
+      "name": "La Couronne de Bassa …",
+      "price": 1500,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-25-6",
+      "name": "Kéla veut faire du cheval",
+      "price": 1500,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-32-4",
+      "name": "L'Enfant Sauveur",
+      "price": 1500,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-27-0",
+      "name": "Le rêve de la petite Souralè",
+      "price": 1500,
+      "stock": 100,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-24-9",
+      "name": "Les 3 aventures du Père Noël en C.I",
+      "price": 2500,
+      "stock": 30,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-22-5",
+      "name": "Le Père Noël à Bouaké",
+      "price": 2250,
+      "stock": 20,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-23-2",
+      "name": "Le Père Noël à Yopougon",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-21-8",
+      "name": "Le Père Noël à Korhogo",
+      "price": 2250,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-80-9",
+      "name": "Vive les Vacances",
+      "price": 1500,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-84-7",
+      "name": "AKOLI défend les femmes",
+      "price": 1500,
+      "stock": 45,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-85-4",
+      "name": "La Guerrière",
+      "price": 1500,
+      "stock": 80,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-79-3",
+      "name": "TANGUY, La brave fille du quartier…",
+      "price": 1500,
+      "stock": 55,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-53-3",
+      "name": "LILI et BILE prémier jour d'école",
+      "price": 2000,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-54-0",
+      "name": "La Maison de Rastus, la souris",
+      "price": 2000,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-52-6",
+      "name": "Les Contes de Tonton Ratiti",
+      "price": 2250,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-487642-07-2",
+      "name": "L'Harmattan",
+      "price": 2250,
+      "stock": 0,
+      "category": "Livres Jeunesse"
+    },
+    {
+      "isbn": "978-2-493344-92-2",
+      "name": "Je suis la route",
+      "price": 2250,
+      "stock": 50,
+      "category": "Livres Jeunesse"
+    }
+  ]
+}
