@@ -63,7 +63,7 @@ async function seed() {
 
   const passwordHash = await bcrypt.hash(process.env.ADMIN_PASSWORD || 'Admin@2026!', 12);
   db.prepare('INSERT INTO admins (email, password_hash, full_name) VALUES (?, ?, ?)')
-    .run(process.env.ADMIN_EMAIL || 'admin@malibrairie.ci', passwordHash, 'Gérant Librairie');
+    .run(process.env.ADMIN_EMAIL || 'admin@malibrairie.ci', passwordHash, 'Christiane');
   console.log('Compte admin créé: admin@malibrairie.ci');
 
   console.log('Seed terminé !');
